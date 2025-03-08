@@ -4,7 +4,7 @@
 The datasets used in this project are available for download at the following links:  
 
 - **Dataset 1:** https://zenodo.org/records/14210776 
-- **Dataset 2:** https://zenodo.org/uploads/14994141
+- **Dataset 2:** https://zenodo.org/records/14994141
 
 ## Setup Instructions
 
